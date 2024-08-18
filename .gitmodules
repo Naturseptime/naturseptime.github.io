@@ -2,3 +2,6 @@
 	path = vowel-demo
 	url = https://github.com/Naturseptime/vowel-demo
 	branch = main
+[submodule "spectrogram"]
+	path = spectrogram
+	url = git@github.com:Naturseptime/spectrogram.git
